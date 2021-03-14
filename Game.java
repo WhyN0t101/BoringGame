@@ -125,4 +125,4 @@ public class Game {
     }
     
 }
-**
+/* i could change the SOUT "Choose Between" with a while function yes i just didnt rememeber when doing it */ 
